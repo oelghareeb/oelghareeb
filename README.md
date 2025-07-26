@@ -29,8 +29,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -42,6 +40,17 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
 </p>
+
+---
+
+### 🧠 Key Expertise in Data Engineering
+
+- **Programming & Scripting**: Python, SQL, Bash, C++
+- **Data Processing & Analysis**: Pandas, NumPy, Seaborn, Plotly
+- **ETL & Workflow Orchestration**: Apache Spark, Kafka, NiFi, dbt, Airflow
+- **Cloud & DevOps**: Jenkins, Git, Docker, Linux, AWS
+- **Database & Storage**: MS SQL Server, NoSQL (MongoDB), Data Modeling, Data Warehousing
+- **Data Visualization & Reporting**: Power BI, Apache Superset
 
 ---
 
