@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omar Mohamed Elgharib</h1>
-<h3 align="center">A passionate AI & Data Engineer from Egypt 🇪🇬</h3>
+<h3 align="center">A AI & Data Engineer from Egypt 🇪🇬</h3>
 
 ---
 
-- 👨‍💻 I’m currently enrolled in the **4-month Data Engineering track** at **ITI (Information Technology Institute)**
-- 🧠 I have a strong passion for **AI, Data Engineering**
-- 🎓 I graduated in **Mechatronics Engineering** from Zagazig University, Class of 2022
-- 🌱 I’m currently learning **Data Engineering, Stream Processing, Airflow, Big Data Tools, Cloud, and DevOps**
+- I have a strong passion for **AI, Data Engineering**
+- I’m currently learning **Data Engineering, Stream Processing, Airflow, Big Data Tools, Cloud, and DevOps**
 - 🥅 My goal: To work as a **professional AI/Data Engineer** and contribute to impactful open-source projects
 - 📫 Reach me at: **oelghareeb@gmail.com**
 
