@@ -45,21 +45,12 @@
 
 - **Programming & Scripting**: Python, SQL, Bash, C++
 - **Data Processing & Analysis**: Pandas, NumPy, Seaborn, Plotly
-- **ETL & Workflow Orchestration**: Apache Spark, Kafka, NiFi, dbt, Airflow
-- **Cloud & DevOps**: Jenkins, Git, Docker, Linux, AWS
+- **ETL & Workflow Orchestration**: Apache Spark, Kafka, NiFi, dbt, Airflow, Flink, Informatica
+- **Cloud & DevOps**: Jenkins, Git, Docker, Linux, AWS, Kubernetes
 - **Database & Storage**: MS SQL Server, NoSQL (MongoDB), Data Modeling, Data Warehousing
 - **Data Visualization & Reporting**: Power BI, Apache Superset
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oelghareeb&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oelghareeb&theme=tokyonight" />
-</p>
-
----
 
 ⭐️ *Thanks for stopping by! Feel free to explore my repositories or connect with me on LinkedIn.*
